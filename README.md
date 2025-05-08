@@ -1,8 +1,8 @@
-## Debbie's Portfolio
+## Welcome To My Portfolio
 
-# 👩🏽‍💻 About Me
+# Hi, I'm Debbie 👋
 
-Hi there! I'm **Debbie** — a data science enthusiast blending global perspective with analytical curiosity.  
+I'm a data science enthusiast blending global perspective with analytical curiosity.  
 
 Currently diving deep into Exploratory Data Analysis and SQL at **Moringa School**, I'm passionate about using data to drive smart, impactful decisions.
 
